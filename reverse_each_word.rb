@@ -17,4 +17,6 @@ end
 
 
 def reverse_each_word(Array)
-  Array.collect { |word| word.reverse 
+  Array.collect { |word| word.reverse}
+end
+
